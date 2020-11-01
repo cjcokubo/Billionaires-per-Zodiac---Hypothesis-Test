@@ -1,2 +1,4 @@
 # Billionaires-per-Zodiac-Hypothesis-Test
 Is one zodiac more likely to be a billionaire?
+
+Some people consult astrology and horoscopes for predictions in their life, love, and fortune. This project aims to tackle the relationship between zodiac signs and “luck” in money by investigating if one of the twelve zodiac signs is more likely to be a billionaire than others.  This project makes use of a billionaire count per zodiac from a study published digitally by the CEOWorld Magazine in 2020. The data was obtained by the study from a random sample of 194 billionaires from the official Forbes’ billionaires list as of 2020. A one-way chi-squared test was then implemented to determine if there is preference for one zodiac. At the 0.05 level of significance, this project is able to conclude that one of the twelve zodiacs is more likely to be a billionaire.
